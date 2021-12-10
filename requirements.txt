@@ -1,4 +1,5 @@
-pytest-cov
+ppytest-cov
 pytest
 pycodestyle
 pytest-pylint
+pandas

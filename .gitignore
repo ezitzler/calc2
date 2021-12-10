@@ -2,6 +2,6 @@
 .cache
 .local
 .pytest_cache
-.ash_history
+.ash_history___delete
 __pycache__
 .coverage
