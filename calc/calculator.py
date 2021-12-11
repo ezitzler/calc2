@@ -28,4 +28,3 @@ class Calculator:
         return True
 
 
-

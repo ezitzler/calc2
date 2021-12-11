@@ -1,3 +1,4 @@
+import pandas as pd
 """Calculation history Class"""
 from calc.calculations.addition import Addition
 from calc.calculations.subtraction import Subtraction
@@ -52,3 +53,4 @@ class Calculations:
         """Add a multiplication object to history using factory method create"""
         Calculations.add_calculation(Multiplication.create(values))
         return True
+
